@@ -1,4 +1,4 @@
-# Unsupervised-Learning---Credit-Card-Dataset
+# Customer segmentation---divide customers into segments based on common characteristics
 
 # Project Objective
 The purpose of this project is to use unsupervised machine learning algorithms to segment credit card customers into groups based on their behaviors.
@@ -7,6 +7,7 @@ Once we segment the customers into groups, we can further analyze each group whi
 The dataset can be found here: https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
 
 # Methods Used
+* Data cleaning and manipulation
 * Data Visualization
 * Data Analysis
 * Unsupervised machine learning models
