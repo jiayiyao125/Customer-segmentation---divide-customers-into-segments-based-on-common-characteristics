@@ -6,12 +6,12 @@ Once we segment the customers into groups, we can further analyze each group whi
 
 The dataset can be found here: https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
 
-Methods Used
+# Methods Used
 * Data Visualization
 * Data Analysis
 * Unsupervised machine learning models
   
 
-Data Description
+# Data Description
 The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
 
